@@ -3,7 +3,12 @@
 # Apple Page Clone
 > One paragraph statement about the project.
 
+<<<<<<< HEAD
 ![screenshot](./app_screenshot_1.png)
+=======
+![screenshot](<img width="945" alt="image" src="https://github.com/marianasortino/apple_page_clone_mariana_06nov2023/assets/150027557/d5d851a2-33f8-4722-8d9d-821c97b4b34e">
+)
+>>>>>>> b086d9fb4350ac84cd11a6664cbb425903bb760d
 
 Additional description about the project and its features.
 
