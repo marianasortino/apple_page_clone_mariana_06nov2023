@@ -3,7 +3,7 @@
 # Apple Page Clone
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot_1.png)
 
 Additional description about the project and its features.
 
