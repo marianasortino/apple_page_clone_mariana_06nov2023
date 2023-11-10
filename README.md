@@ -49,7 +49,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/marianasortino/apple_page_clone_mariana_06nov2023/issues](issues/).
+Feel free to check the [Issues Page](https://github.com/marianasortino/apple_page_clone_mariana_06nov2023/issues).
 
 ## Show your support
 
